@@ -11,3 +11,5 @@ Project team: Xiaoran Du, Brandon Ruffridge, Benjamin Centner (Department of Com
 + Architected and deployed a cloud-based infrastructure on **AWS IoT** for communication, data inference and visualization.
 
 ### 2. Hardware Topology
+<img src="hardware/assembly.jpg" alt="Alt text" width="32%"/> <img src="hardware/picar.jpg" alt="Alt text" width="33%"/>
+<img src="hardware/Topology.jpg" alt="Alt text" width="90%"/>
