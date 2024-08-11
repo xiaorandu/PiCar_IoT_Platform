@@ -12,4 +12,4 @@ Project team: Xiaoran Du, Brandon Ruffridge, Benjamin Centner (Department of Com
 
 ### 2. Hardware Topology
 <img src="hardware/assembly.jpg" alt="Alt text" width="32%"/> <img src="hardware/picar.jpg" alt="Alt text" width="33%"/>
-<img src="hardware/Topology.jpg" alt="Alt text" width="90%"/>
+<img src="hardware/Topology.jpg" alt="Alt text" width="70%"/>
